@@ -1,7 +1,8 @@
 # Hi, I’m @Sophia-Lapadula
-  I'm a Full Stack Engineer and Data Scientist located in Brazil.
-  Currently I'm studing Computer Science in the Federal University of São Paulo.
-  My passion is to produce tech that helps business in their day by day!
+  I'm a Data Scientist located in Brazil.
+  I'm currently studing Computer Science in the Federal University of São Paulo.
+  I'm passiomnate about Data Driven Cultures and helping my clients to use their data in an optmized way
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-Lapadula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me ...
   - LinkedIn: https://www.linkedin.com/in/sophia-lapadula/
